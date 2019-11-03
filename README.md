@@ -1,9 +1,5 @@
 # Not an Alice bot
 
-## Test this telegram bot
-
-Telegram Username: @notAliceBot
-
 ## Libraries
 
 newsapi
